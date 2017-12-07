@@ -1,9 +1,4 @@
-/*
- * jni.cpp
- *
- *  Created on: 2017骞�11鏈�13鏃�
- *      Author: haitai
- */
+
 
 
 #include <stdio.h>

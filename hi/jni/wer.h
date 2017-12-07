@@ -1,9 +1,4 @@
-/*
- * wer.h
- *
- *  Created on: 2017年11月9日
- *      Author: haitai
- */
+
 
 #ifndef WER_H_
 #define WER_H_
